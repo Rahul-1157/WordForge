@@ -70,7 +70,8 @@ Once both the **backend** and **frontend** are deployed:
 
 ---
 
-**Crafted with ❤️ by PAWAN SHARMA.**
+**Crafted with ❤️ by RAHUL SANTRA.**
+
 
 
 
